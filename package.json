@@ -4,7 +4,9 @@
   "description": "",
   "main": "scrape.js",
   "scripts": {
-    "test": "eslint index.js tests/**/* && mocha tests/**/*"
+    "test": "eslint index.js tests/**/* && mocha tests/**/*",
+    "build": "sh build.sh",
+    "deploy": "sh deploy.sh"
   },
   "author": "",
   "license": "ISC",
