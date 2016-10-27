@@ -1,0 +1,35 @@
+{
+    "env": {
+        "mocha": true,
+        "browser": true,
+        "node": true
+    },
+    "ecmaFeatures": {
+        "jsx": true,
+        "experimentalObjectRestSpread": true
+    },
+    "extends": "airbnb",
+    "globals": {
+        google: true,
+        CustomOverlay: true
+    },
+    "rules": {
+        "react/prop-types": 0,
+        "no-global-assign": 0,
+        "no-unsafe-negation": 0,
+        "indent": [2, 4],
+        "import/imports-first": 0,
+        "import/no-extraneous-dependencies": 0,
+        "react/jsx-sort-props": [0],
+        "react/jsx-filename-extension": 0,
+        "react/jsx-indent": [2, 4],
+        "react/prefer-es6-class": 0,
+        "comma-dangle": 0,
+        "new-cap": 0,
+        "max-len": 0,
+        "id-length": 0,
+        "no-multiple-empty-lines": ["error", {
+            "max": 1
+        }]
+    }
+}

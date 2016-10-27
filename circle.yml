@@ -1,0 +1,11 @@
+machine:
+  timezone:
+    Europe/London
+  node:
+    version: 6.2.0
+deployment:
+    live:
+        branch: master
+        commands:
+            - npm run build
+            - npm run deploy
