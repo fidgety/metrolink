@@ -17,6 +17,12 @@ const parseHtml = (html) => {
     })).toArray();
 };
 
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
+});
+
 app.get('/station/:station', (req, res) => {
     request(`http://beta.tfgm.com/public-transport/stations/${req.params.station}-tram`)
         .then(parseHtml)
