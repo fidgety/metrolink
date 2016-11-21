@@ -6,7 +6,8 @@
   "scripts": {
     "test": "eslint index.js tests/**/* && mocha tests/**/*",
     "build": "sh build.sh",
-    "deploy": "sh deploy.sh"
+    "deploy": "sh deploy.sh",
+    "start": "node ./index.js"
   },
   "author": "",
   "license": "ISC",

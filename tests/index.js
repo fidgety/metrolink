@@ -1,6 +1,6 @@
 const request = require('supertest');
 const nock = require('nock');
-const app = require('../index');
+const app = require('../api');
 
 const html = '<html><div id="departure-items">' +
                 '<tr>' +
