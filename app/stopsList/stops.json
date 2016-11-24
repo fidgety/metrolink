@@ -1,374 +1,374 @@
 [
     {
         "id": "abraham-moss",
-        "name": "Abraham Moss Tram Stop"
+        "name": "Abraham Moss"
     },
     {
         "id": "altrincham",
-        "name": "Altrincham Tram Stop"
+        "name": "Altrincham"
     },
     {
         "id": "anchorage",
-        "name": "Anchorage Tram Stop"
+        "name": "Anchorage"
     },
     {
         "id": "ashton-moss",
-        "name": "Ashton Moss Tram Stop"
+        "name": "Ashton Moss"
     },
     {
         "id": "ashton-west",
-        "name": "Ashton West Tram Stop"
+        "name": "Ashton West"
     },
     {
         "id": "ashton-under-lyne",
-        "name": "Ashton-Under-Lyne Tram Stop"
+        "name": "Ashton-Under-Lyne"
     },
     {
         "id": "audenshaw",
-        "name": "Audenshaw Tram Stop"
+        "name": "Audenshaw"
     },
     {
         "id": "baguley",
-        "name": "Baguley Tram Stop"
+        "name": "Baguley"
     },
     {
         "id": "barlow-moor-road",
-        "name": "Barlow Moor Road Tram Stop"
+        "name": "Barlow Moor Road"
     },
     {
         "id": "benchill",
-        "name": "Benchill Tram Stop"
+        "name": "Benchill"
     },
     {
         "id": "besses-o-th-barn",
-        "name": "Besses o' th' Barn Tram Stop"
+        "name": "Besses o' th' Barn"
     },
     {
         "id": "bowker-vale",
-        "name": "Bowker Vale Tram Stop"
+        "name": "Bowker Vale"
     },
     {
         "id": "broadway",
-        "name": "Broadway Tram Stop"
+        "name": "Broadway"
     },
     {
         "id": "brooklands",
-        "name": "Brooklands Tram Stop"
+        "name": "Brooklands"
     },
     {
         "id": "burton-road",
-        "name": "Burton Road Tram Stop"
+        "name": "Burton Road"
     },
     {
         "id": "bury",
-        "name": "Bury Tram Stop"
+        "name": "Bury"
     },
     {
         "id": "cemetery-road",
-        "name": "Cemetery Road Tram Stop"
+        "name": "Cemetery Road"
     },
     {
         "id": "central-park",
-        "name": "Central Park Tram Stop"
+        "name": "Central Park"
     },
     {
         "id": "chorlton",
-        "name": "Chorlton Tram Stop"
+        "name": "Chorlton"
     },
     {
         "id": "clayton-hall",
-        "name": "Clayton Hall Tram Stop"
+        "name": "Clayton Hall"
     },
     {
         "id": "cornbrook",
-        "name": "Cornbrook Tram Stop"
+        "name": "Cornbrook"
     },
     {
         "id": "crossacres",
-        "name": "Crossacres Tram Stop"
+        "name": "Crossacres"
     },
     {
         "id": "crumpsall",
-        "name": "Crumpsall Tram Stop"
+        "name": "Crumpsall"
     },
     {
         "id": "dane-road",
-        "name": "Dane Road Tram Stop"
+        "name": "Dane Road"
     },
     {
         "id": "deansgate-castlefield",
-        "name": "Deansgate-Castlefield Tram Stop"
+        "name": "Deansgate-Castlefield"
     },
     {
         "id": "derker",
-        "name": "Derker Tram Stop"
+        "name": "Derker"
     },
     {
         "id": "didsbury-village",
-        "name": "Didsbury Village Tram Stop"
+        "name": "Didsbury Village"
     },
     {
         "id": "droylsden",
-        "name": "Droylsden Tram Stop"
+        "name": "Droylsden"
     },
     {
         "id": "east-didsbury",
-        "name": "East Didsbury Tram Stop"
+        "name": "East Didsbury"
     },
     {
         "id": "eccles",
-        "name": "Eccles Tram Stop"
+        "name": "Eccles"
     },
     {
         "id": "edge-lane",
-        "name": "Edge Lane Tram Stop"
+        "name": "Edge Lane"
     },
     {
         "id": "etihad-campus",
-        "name": "Etihad Campus Tram Stop"
+        "name": "Etihad Campus"
     },
     {
         "id": "exchange-quay",
-        "name": "Exchange Quay Tram Stop"
+        "name": "Exchange Quay"
     },
     {
         "id": "exchange-square",
-        "name": "Exchange Square Tram Stop"
+        "name": "Exchange Square"
     },
     {
         "id": "failsworth",
-        "name": "Failsworth Tram Stop"
+        "name": "Failsworth"
     },
     {
         "id": "firswood",
-        "name": "Firswood Tram Stop"
+        "name": "Firswood"
     },
     {
         "id": "freehold",
-        "name": "Freehold Tram Stop"
+        "name": "Freehold"
     },
     {
         "id": "martinscroft",
-        "name": "Martinscroft Tram Stop"
+        "name": "Martinscroft"
     },
     {
         "id": "old-trafford",
-        "name": "Old Trafford Tram Stop"
+        "name": "Old Trafford"
     },
     {
         "id": "radcliffe",
-        "name": "Radcliffe Tram Stop"
+        "name": "Radcliffe"
     },
     {
         "id": "salford-quays",
-        "name": "Salford Quays Tram Stop"
+        "name": "Salford Quays"
     },
     {
         "id": "stretford",
-        "name": "Stretford Tram Stop"
+        "name": "Stretford"
     },
     {
         "id": "trafford-bar",
-        "name": "Trafford Bar Tram Stop"
+        "name": "Trafford Bar"
     },
     {
         "id": "kingsway-business-park",
-        "name": "Kingsway Business Park Tram Stop"
+        "name": "Kingsway Business Park"
     },
     {
         "id": "langworthy",
-        "name": "Langworthy Tram Stop"
+        "name": "Langworthy"
     },
     {
         "id": "navigation-road",
-        "name": "Navigation Road Tram Stop"
+        "name": "Navigation Road"
     },
     {
         "id": "harbour-city",
-        "name": "Harbour City Tram Stop"
+        "name": "Harbour City"
     },
     {
         "id": "heaton-park",
-        "name": "Heaton Park Tram Stop"
+        "name": "Heaton Park"
     },
     {
         "id": "hollinwood",
-        "name": "Hollinwood Tram Stop"
+        "name": "Hollinwood"
     },
     {
         "id": "holt-town",
-        "name": "Holt Town Tram Stop"
+        "name": "Holt Town"
     },
     {
         "id": "market-street",
-        "name": "Market Street Tram Stop"
+        "name": "Market Street"
     },
     {
         "id": "mediacityuk",
-        "name": "MediaCityUK Tram Stop"
+        "name": "MediaCityUK"
     },
     {
         "id": "oldham-king-street",
-        "name": "Oldham King Street Tram Stop"
+        "name": "Oldham King Street"
     },
     {
         "id": "ladywell",
-        "name": "Ladywell Tram Stop"
+        "name": "Ladywell"
     },
     {
         "id": "manchester-airport",
-        "name": "Manchester Airport Tram Stop"
+        "name": "Manchester Airport"
     },
     {
         "id": "milnrow",
-        "name": "Milnrow Tram Stop"
+        "name": "Milnrow"
     },
     {
         "id": "monsall",
-        "name": "Monsall Tram Stop"
+        "name": "Monsall"
     },
     {
         "id": "moor-road",
-        "name": "Moor Road Tram Stop"
+        "name": "Moor Road"
     },
     {
         "id": "new-islington",
-        "name": "New Islington Tram Stop"
+        "name": "New Islington"
     },
     {
         "id": "newbold",
-        "name": "Newbold Tram Stop"
+        "name": "Newbold"
     },
     {
         "id": "newhey",
-        "name": "Newhey Tram Stop"
+        "name": "Newhey"
     },
     {
         "id": "newton-heath-and-moston",
-        "name": "Newton Heath and Moston Tram Stop"
+        "name": "Newton Heath and Moston"
     },
     {
         "id": "northern-moor",
-        "name": "Northern Moor Tram Stop"
+        "name": "Northern Moor"
     },
     {
         "id": "oldham-central",
-        "name": "Oldham Central Tram Stop"
+        "name": "Oldham Central"
     },
     {
         "id": "oldham-mumps",
-        "name": "Oldham Mumps Tram Stop"
+        "name": "Oldham Mumps"
     },
     {
         "id": "peel-hall",
-        "name": "Peel Hall Tram Stop"
+        "name": "Peel Hall"
     },
     {
         "id": "piccadilly-gardens",
-        "name": "Piccadilly Gardens Tram Stop"
+        "name": "Piccadilly Gardens"
     },
     {
         "id": "piccadilly",
-        "name": "Piccadilly Tram Stop"
+        "name": "Piccadilly"
     },
     {
         "id": "pomona",
-        "name": "Pomona Tram Stop"
+        "name": "Pomona"
     },
     {
         "id": "prestwich",
-        "name": "Prestwich Tram Stop"
+        "name": "Prestwich"
     },
     {
         "id": "queens-road",
-        "name": "Queens Road Tram Stop"
+        "name": "Queens Road"
     },
     {
         "id": "st-peters-square",
-        "name": "St Peter's Square Tram Stop"
+        "name": "St Peter's Square"
     },
     {
         "id": "robinswood-road",
-        "name": "Robinswood Road Tram Stop"
+        "name": "Robinswood Road"
     },
     {
         "id": "rochdale-railway-station",
-        "name": "Rochdale Railway Station Tram Stop"
+        "name": "Rochdale Railway Station"
     },
     {
         "id": "rochdale-town-centre",
-        "name": "Rochdale Town Centre Tram Stop"
+        "name": "Rochdale Town Centre"
     },
     {
         "id": "roundthorn",
-        "name": "Roundthorn Tram Stop"
+        "name": "Roundthorn"
     },
     {
         "id": "sale",
-        "name": "Sale Tram Stop"
+        "name": "Sale"
     },
     {
         "id": "sale-water-park",
-        "name": "Sale Water Park Tram Stop"
+        "name": "Sale Water Park"
     },
     {
         "id": "shadowmoss",
-        "name": "Shadowmoss Tram Stop"
+        "name": "Shadowmoss"
     },
     {
         "id": "shaw-and-crompton",
-        "name": "Shaw & Crompton Tram Stop"
+        "name": "Shaw & Crompton"
     },
     {
         "id": "shudehill",
-        "name": "Shudehill Tram Stop"
+        "name": "Shudehill"
     },
     {
         "id": "south-chadderton",
-        "name": "South Chadderton Tram Stop"
+        "name": "South Chadderton"
     },
     {
         "id": "st-werburghs-road",
-        "name": "St Werburgh's Road Tram Stop"
+        "name": "St Werburgh's Road"
     },
     {
         "id": "timperley",
-        "name": "Timperley Tram Stop"
+        "name": "Timperley"
     },
     {
         "id": "velopark",
-        "name": "Velopark Tram Stop"
+        "name": "Velopark"
     },
     {
         "id": "victoria",
-        "name": "Victoria Tram Stop"
+        "name": "Victoria"
     },
     {
         "id": "weaste",
-        "name": "Weaste Tram Stop"
+        "name": "Weaste"
     },
     {
         "id": "west-didsbury",
-        "name": "West Didsbury Tram Stop"
+        "name": "West Didsbury"
     },
     {
         "id": "westwood",
-        "name": "Westwood Tram Stop"
+        "name": "Westwood"
     },
     {
         "id": "whitefield",
-        "name": "Whitefield Tram Stop"
+        "name": "Whitefield"
     },
     {
         "id": "withington",
-        "name": "Withington Tram Stop"
+        "name": "Withington"
     },
     {
         "id": "wythenshawe-park",
-        "name": "Wythenshawe Park Tram Stop"
+        "name": "Wythenshawe Park"
     },
     {
         "id": "wythenshawe-town-centre",
-        "name": "Wythenshawe Town Centre Tram Stop"
+        "name": "Wythenshawe Town Centre"
     }
 ]
