@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const express = require('express');
 const ua = require('universal-analytics');
 
-const visitor = ua(process.env.UA).debug();
+const visitor = ua(process.env.UA);
 
 const app = express();
 
