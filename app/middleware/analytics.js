@@ -15,7 +15,4 @@ const trackHit = (req, res, next) => {
     next();
 };
 
-module.exports = (app) => {
-    app.use(ua.middleware('UA-XXXX-Y', { cookieName: '_ga' }));
-    app.use(trackHit);
-};
+module.exports = trackHit;

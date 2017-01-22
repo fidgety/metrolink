@@ -8,9 +8,9 @@ const cors = require('./middleware/cors');
 const app = express();
 
 app.use(cors);
-analytics(app);
 
 app.get('/station/:station',
+    analytics,
     cache('10 seconds'),
     (req, res) => {
         request(`http://beta.tfgm.com/public-transport/stations/${req.params.station}-tram`)
