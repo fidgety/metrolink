@@ -5,7 +5,7 @@ const visitor = ua(process.env.UA);
 
 const trackHit = (req, res, next) => {
     const userAgent = req.headers['user-agent'] || '';
-    const device = userAgent.indexOf('Darwin') ? 'ios' : 'android';
+    const device = userAgent.indexOf('Darwin') ? 'android' : 'ios';
 
     visitor
         .pageview(`/${req.params.station}`)
