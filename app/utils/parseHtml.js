@@ -10,7 +10,9 @@ const parseHtml = (html) => {
     return $(rows).map((i, el) => ({
         destination: $(el).find(destination).text(),
         wait: $(el).find(timeToWait).text(),
-    })).toArray();
+    }))
+        .toArray()
+        .filter(entry => parseInt(entry.wait, 10) > 1);
 };
 
 module.exports = parseHtml;

@@ -18,7 +18,8 @@ const trackHit = (req, res, next) => {
     connection.insertOne({
         station,
         date: new Date(),
-        device
+        device,
+        userAgent
     }, err => console.log);
     next();
 };
