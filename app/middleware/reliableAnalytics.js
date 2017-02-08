@@ -14,12 +14,14 @@ const trackHit = (req, res, next) => {
     const station = req.params.station;
     const userAgent = req.headers['user-agent'] || '';
     const device = userAgent.indexOf('Darwin') > 0 ? 'ios' : 'android';
+    const sessionID = req.sessionID;
 
     connection.insertOne({
         station,
         date: new Date(),
         device,
-        userAgent
+        userAgent,
+        sessionID
     }, err => console.log);
     next();
 };

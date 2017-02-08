@@ -5,9 +5,11 @@ const parseHtml = require('./utils/parseHtml');
 const analytics = require('./middleware/analytics');
 const reliableAnalytics = require('./middleware/reliableAnalytics');
 const cors = require('./middleware/cors');
+const session = require('express-session');
 
 const app = express();
 
+app.use(session({ secret: 'totally not secret', cookie: { maxAge: 600000 } }));
 app.use(cors);
 
 app.get('/station/:station',
