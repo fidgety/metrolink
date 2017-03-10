@@ -11,8 +11,8 @@ const html = '<html><div id="departure-items">' +
 
 describe('simple API for Metrolink', () => {
     it('should parse times from HTML', (done) => {
-        nock('http://beta.tfgm.com')
-            .get('/public-transport/stations/piccadilly-tram')
+        nock('https://beta.tfgm.com')
+            .get('/public-transport/tram/stops/piccadilly-tram')
             .reply(200, html);
 
         request(app)
