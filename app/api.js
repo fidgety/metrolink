@@ -17,7 +17,7 @@ app.get('/station/:station',
     reliableAnalytics,
     cache('10 seconds'),
     (req, res) => {
-        request(`http://beta.tfgm.com/public-transport/stations/${req.params.station}-tram`)
+        request(`https://beta.tfgm.com/public-transport/tram/stops/${req.params.station}-tram`)
             .then(parseHtml)
             .then((json) => {
                 res.json(json);
